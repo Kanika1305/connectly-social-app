@@ -100,6 +100,6 @@ Kanika Chauhan
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kanika-chauhandb13/)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Kanika1305)
-5
+
 
 Built as part of a Full Stack Development Internship Assignment.
